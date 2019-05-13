@@ -1,0 +1,16 @@
+4327,Sheri,Gordon,Littleton,CO,80129,230
+2398,Jim,Glussman,Denver,CO,80111,200
+8597,Beth,Taylor,Seattle,WA,98103,500
+4959,Betty,Wise,Seattle,WA,98178,200
+9503,Bob,Mann,Monroe,WA,98013,0
+3321,Ron,Thompson,Renton,WA,98666,85
+4932,Wally,Jones,Seattle,WA,98105,1500
+4390,Candy,Kendall,Seattle,WA,98105,50
+8574,Jerry,Wyatt,Denver,CO,80222,100
+3348,Mike,Boren,Englewood,CO,80113,0
+2910,Larry,Styles,Bellevue,WA,98104,250
+3029,Sharon,Johnson,Fife,WA,98222,856
+9302,Todd,Hayes,Lynwood,WA,98036,0
+7432,Homer,Wells,Seattle,WA,98105,500
+5874,Mary,Hill,Littleton,CO,80129,150
+3201,Harry,Sanders,Fife,WA,98222,1000

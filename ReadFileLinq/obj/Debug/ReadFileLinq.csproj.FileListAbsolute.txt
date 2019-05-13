@@ -1,0 +1,27 @@
+c:\users\300269310\documents\visual studio 2015\Projects\ReadFileLinq\ReadFileLinq\bin\Debug\ReadFileLinq.exe.config
+c:\users\300269310\documents\visual studio 2015\Projects\ReadFileLinq\ReadFileLinq\bin\Debug\ReadFileLinq.exe
+c:\users\300269310\documents\visual studio 2015\Projects\ReadFileLinq\ReadFileLinq\bin\Debug\ReadFileLinq.pdb
+c:\users\300269310\documents\visual studio 2015\Projects\ReadFileLinq\ReadFileLinq\obj\Debug\ReadFileLinq.csprojResolveAssemblyReference.cache
+c:\users\300269310\documents\visual studio 2015\Projects\ReadFileLinq\ReadFileLinq\obj\Debug\ReadFileLinq.Form1.resources
+c:\users\300269310\documents\visual studio 2015\Projects\ReadFileLinq\ReadFileLinq\obj\Debug\ReadFileLinq.Properties.Resources.resources
+c:\users\300269310\documents\visual studio 2015\Projects\ReadFileLinq\ReadFileLinq\obj\Debug\ReadFileLinq.csproj.GenerateResource.Cache
+c:\users\300269310\documents\visual studio 2015\Projects\ReadFileLinq\ReadFileLinq\obj\Debug\ReadFileLinq.exe
+c:\users\300269310\documents\visual studio 2015\Projects\ReadFileLinq\ReadFileLinq\obj\Debug\ReadFileLinq.pdb
+C:\Users\RAFAEL SILVEIRA\Desktop\DOUGLAS\Intro programming - CSIS 1175\2017 04 11\ReadFileLinq\bin\Debug\ReadFileLinq.exe.config
+C:\Users\RAFAEL SILVEIRA\Desktop\DOUGLAS\Intro programming - CSIS 1175\2017 04 11\ReadFileLinq\obj\Debug\ReadFileLinq.exe
+C:\Users\RAFAEL SILVEIRA\Desktop\DOUGLAS\Intro programming - CSIS 1175\2017 04 11\ReadFileLinq\obj\Debug\ReadFileLinq.pdb
+C:\Users\RAFAEL SILVEIRA\Desktop\DOUGLAS\Intro programming - CSIS 1175\2017 04 11\ReadFileLinq\bin\Debug\ReadFileLinq.exe
+C:\Users\RAFAEL SILVEIRA\Desktop\DOUGLAS\Intro programming - CSIS 1175\2017 04 11\ReadFileLinq\bin\Debug\ReadFileLinq.pdb
+C:\Users\RAFAEL SILVEIRA\Desktop\DOUGLAS\Intro programming - CSIS 1175\2017 04 11\ReadFileLinq\obj\Debug\ReadFileLinq.csprojResolveAssemblyReference.cache
+C:\Users\RAFAEL SILVEIRA\Desktop\DOUGLAS\Intro programming - CSIS 1175\2017 04 11\ReadFileLinq\obj\Debug\ReadFileLinq.Form1.resources
+C:\Users\RAFAEL SILVEIRA\Desktop\DOUGLAS\Intro programming - CSIS 1175\2017 04 11\ReadFileLinq\obj\Debug\ReadFileLinq.Properties.Resources.resources
+C:\Users\RAFAEL SILVEIRA\Desktop\DOUGLAS\Intro programming - CSIS 1175\2017 04 11\ReadFileLinq\obj\Debug\ReadFileLinq.csproj.GenerateResource.Cache
+C:\Users\RAFAEL SILVEIRA\Desktop\RAFAEL\DOUGLAS\01 - Term 1\Intro programming - CSIS 1175\2017 04 11\ReadFileLinq\bin\Debug\ReadFileLinq.exe.config
+C:\Users\RAFAEL SILVEIRA\Desktop\RAFAEL\DOUGLAS\01 - Term 1\Intro programming - CSIS 1175\2017 04 11\ReadFileLinq\obj\Debug\ReadFileLinq.exe
+C:\Users\RAFAEL SILVEIRA\Desktop\RAFAEL\DOUGLAS\01 - Term 1\Intro programming - CSIS 1175\2017 04 11\ReadFileLinq\obj\Debug\ReadFileLinq.pdb
+C:\Users\RAFAEL SILVEIRA\Desktop\RAFAEL\DOUGLAS\01 - Term 1\Intro programming - CSIS 1175\2017 04 11\ReadFileLinq\bin\Debug\ReadFileLinq.exe
+C:\Users\RAFAEL SILVEIRA\Desktop\RAFAEL\DOUGLAS\01 - Term 1\Intro programming - CSIS 1175\2017 04 11\ReadFileLinq\bin\Debug\ReadFileLinq.pdb
+C:\Users\RAFAEL SILVEIRA\Desktop\RAFAEL\DOUGLAS\01 - Term 1\Intro programming - CSIS 1175\2017 04 11\ReadFileLinq\obj\Debug\ReadFileLinq.csprojResolveAssemblyReference.cache
+C:\Users\RAFAEL SILVEIRA\Desktop\RAFAEL\DOUGLAS\01 - Term 1\Intro programming - CSIS 1175\2017 04 11\ReadFileLinq\obj\Debug\ReadFileLinq.Form1.resources
+C:\Users\RAFAEL SILVEIRA\Desktop\RAFAEL\DOUGLAS\01 - Term 1\Intro programming - CSIS 1175\2017 04 11\ReadFileLinq\obj\Debug\ReadFileLinq.Properties.Resources.resources
+C:\Users\RAFAEL SILVEIRA\Desktop\RAFAEL\DOUGLAS\01 - Term 1\Intro programming - CSIS 1175\2017 04 11\ReadFileLinq\obj\Debug\ReadFileLinq.csproj.GenerateResource.Cache
